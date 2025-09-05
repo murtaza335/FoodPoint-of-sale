@@ -2,6 +2,5 @@
 /*.py[cod]/
 /*.pyo
 /.env
-/.venv
 /.idea
 /.vscode
